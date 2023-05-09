@@ -1,4 +1,4 @@
-// Generated from c:\Users\97677\Desktop\毕业设计\code\sample\src\assets\ActivityGrammar.g4 by ANTLR 4.9.2
+// Generated from c:\Users\97677\Desktop\毕业设计\code\UMLGenerator\UMLGenerator\src\assets\ActivityGrammar.g4 by ANTLR 4.9.2
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
